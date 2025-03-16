@@ -82,7 +82,7 @@ form {
   font-size: 1rem;
   display: block;
   margin-top: 10px;
-  color: #08992a;
+  color: rgb(56, 56, 142);
 }
 
 .product:hover {
